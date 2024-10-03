@@ -1,3 +1,6 @@
+python==3.10.*
+
+
 # Streamlit for the web interface
 streamlit==1.38.0
 
