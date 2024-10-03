@@ -14,6 +14,6 @@ openai==1.35.14
 audio-recorder-streamlit==0.0.10
 
 # TTS (Text-to-Speech) library by Coqui for voice synthesis
-TTS==0.6.8
+TTS @ git+https://github.com/coqui-ai/TTS@dbf1a08a0d4e47fdad6172e433eeb34bc6b13b4e
 
 
