@@ -9,10 +9,10 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "YourProjectName"
+name = "Speech2Speech"
 version = "0.1.0"
 description = "A Streamlit project using TTS and transformers"
-authors = [{name = "Your Name", email = "your.email@example.com"}]
+authors = [{name = "soham", email = "karaksoham2002@gmail.com"}]
 dependencies = [
     "streamlit==1.38.0",
     "torch==2.4.1",    # CUDA 12.1 support
