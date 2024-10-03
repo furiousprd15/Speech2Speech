@@ -1,7 +1,32 @@
+# Streamlit for the web interface
 streamlit==1.38.0
-torch==2.4.0+cu121
+
+# PyTorch with CUDA 12.1 support
+torch+cu121
+
+# Hugging Face Transformers for models like BERT, GPT, etc.
 transformers==4.45.1
+
+# OpenAI API client for interacting with OpenAI models
 openai==1.35.14
+
+# Audio recorder component for Streamlit
 audio-recorder-streamlit==0.0.10
+
+# TTS (Text-to-Speech) library by Coqui for voice synthesis
 TTS==0.6.8
-re==2.2.1
+
+# Regular expressions (included in Python standard library, no need to specify version)
+re
+
+# For handling I/O operations in memory (BytesIO)
+io
+
+# Base64 encoding/decoding (also part of Python standard library)
+base64
+
+# Sleep function for controlling timing in loops
+time
+
+# Wave module for handling audio files
+wave
