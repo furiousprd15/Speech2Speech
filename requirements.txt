@@ -1,5 +1,5 @@
 streamlit==1.38.0
-torch==2.4.0+cu118
+torch==2.4.0+cu121
 transformers==4.45.1
 openai==1.35.14
 audio-recorder-streamlit==0.0.10
